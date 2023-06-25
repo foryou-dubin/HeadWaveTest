@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewHandwave-master.iml" filepath="$PROJECT_DIR$/.idea/modules/NewHandwave-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.iml" filepath="$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/newhandwaveapp/NewHandwave-master.newhandwaveapp.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.main.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/NewHandwave-master.openCVLibrary310.unitTest.iml" />
+    </modules>
+  </component>
+</project>

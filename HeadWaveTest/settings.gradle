@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+
+include ':newhandwaveapp'
+project(':newhandwaveapp').projectDir = new File(rootDir, '../NewHandwave-master/newhandwaveapp')
+include ':openCVLibrary310'
+project(':openCVLibrary310').projectDir = new File(rootDir, '../NewHandwave-master/openCVLibrary310')
+
